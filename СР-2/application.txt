@@ -1,0 +1,2 @@
+Я хочу создать онлайн книжный магазин, где пользователь может купить себе книги 
+Сущности: User, Admin, Costumer, Role, Permissions, Product, Category. 
